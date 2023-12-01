@@ -1,4 +1,5 @@
 #include "Keyboard.h"
+#include <stdexcept>
 #include <string>
 
 std::map<std::string, char> RegionNames = {
